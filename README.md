@@ -1,6 +1,7 @@
 # laravel-content-builder-js
 Laravel package for ContentBuilder.js
 
+
 This package is not with ContentBuilder.js source files. You have to purchase it and put all the files in assests folder.
 
 USAGE
