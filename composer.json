@@ -1,0 +1,23 @@
+{
+    "name": "bglobal/content-builder",
+    "description": "Content builder package for laravel",
+    "keywords": ["laravel", "ContentBuilder"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sahbaj uddin",
+            "email": "sahbaj.uddin@bglobalsourcing.com"
+        }
+    ],    
+   "autoload": {
+        "psr-4": {            
+            "Bglobal\\ContentBuilder\\": "src/"
+        }
+    },
+    "require": {
+    	"bglobal/content-builder": "dev",
+	"php": ">=5.5.9",
+        "laravel/framework": "5.2.*"
+    },
+    "minimum-stability" : "stable"
+}
