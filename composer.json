@@ -13,11 +13,6 @@
         "psr-4": {            
             "Bglobal\\ContentBuilder\\": "src/"
         }
-    },
-    "require": {
-    	"bglobal/content-builder": "dev",
-	"php": ">=5.5.9",
-        "laravel/framework": "5.2.*"
-    },
+    },    
     "minimum-stability" : "stable"
 }
