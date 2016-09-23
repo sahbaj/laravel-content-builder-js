@@ -8,7 +8,7 @@ USAGE
 
 For Laravel 5.2
 
-composer require bglobal/content-builder OR composer require "bglobal/content-builder":"2.0@dev"
+composer require bglobal/content-builder=dev-master
 
 add the following line in config/app.php
 Bglobal\ContentBuilder\ContentBuilderServiceProvider::class,
