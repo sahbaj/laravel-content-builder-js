@@ -6,7 +6,7 @@ This package is not with ContentBuilder.js source files. You have to purchase it
 
 USAGE
 
-For Laravel 5.2
+For Laravel 5.2 & 5.3
 
 composer require bglobal/content-builder=dev-master
 
